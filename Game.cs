@@ -62,6 +62,7 @@ namespace Guessing_Game
         {
             _total_number_guesses = 0;
             _player_input = "";
+            //See modules for proper random initialization
             _random_number = new Random();
             _msg = "Welcome to the Guessing Game\n\n";
         }
