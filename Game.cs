@@ -8,6 +8,7 @@ namespace Guessing_Game
 {
     /// <summary>
     ///  This class contains Number Guessing Game methods.
+    ///  I am happy!	
     /// </summary>
     class Game
     {
